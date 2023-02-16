@@ -4,4 +4,4 @@ exactly how long the generated password will be, along with if it should contain
 future 'pwdGen.py' may be updated and configured to encrypt/store the randomly generated passwords; So that the user
 does not forget them.
 
-https://gyazo.com/fc34d4914a0d2b9ebe2fcb68b71f2b21.png
+![image](https://user-images.githubusercontent.com/22335730/219421888-1da173a8-45b3-44b8-aec0-aa6eb39227a6.png)
